@@ -1,4 +1,4 @@
-# Healthcare AI Bot 🤖🩺
+# Healthcare AI Bot 
 
 **A HIPAA-safe AI-powered Telegram bot** for healthcare assistance.  
 Provides **real-time outbreak alerts, vaccination schedules, disease symptoms, and nearby hospital search**, with offline caching in a database and optional RAG integration for verified medical sources.

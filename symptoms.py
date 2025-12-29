@@ -12,7 +12,6 @@ def get_symptoms(disease: str):
         if existing:
             return existing.symptoms
 
-    # 🔒 VERIFIED BASE SYMPTOMS
     base = {
         "polio": "Fever, fatigue, headache, vomiting, neck stiffness, limb weakness",
         "measles": "High fever, cough, runny nose, red eyes, rash",

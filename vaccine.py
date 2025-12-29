@@ -14,7 +14,6 @@ def get_vaccine_schedule(disease: str):
         if existing:
             return existing
 
-    # 🔒 SAFE STATIC FALLBACK (ONLY VERIFIED)
     known = {
         "polio": {
             "vaccine": "OPV / IPV",
